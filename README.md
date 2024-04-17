@@ -35,6 +35,13 @@ export PATH=$PATH:/usr/local/go/bin
 source ~/.profile
 ```
 
+- Finally Check Go version
+
+``` sh
+go version
+```
+![image](https://github.com/KRIISHSHARMA/go-installation/assets/86760658/9d48670d-2b44-48dd-ab06-4bc3d3e3bf59)
+
 
 
 
